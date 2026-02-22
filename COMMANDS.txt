@@ -1,0 +1,5 @@
+git --version проверить версию git
+git commit -m message
+git pull - получить изменения с GitHub
+git log - просмотр истории коммитов
+git add. - добавить все файлы
